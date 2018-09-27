@@ -4,11 +4,15 @@
   "description": "just a blockchain test",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha"
   },
   "keywords": [
     "blockchain"
   ],
   "author": "Osvaldo Aguilar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
