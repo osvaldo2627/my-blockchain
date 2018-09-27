@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "just a blockchain test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Osvaldo Aguilar",
+  "license": "ISC"
+}
