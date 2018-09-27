@@ -1,2 +1,5 @@
 # my-blockchain
-Blockchain development, just for fun.
+Development of a blockchain in javascript.
+This project is only intended for learning.
+
+
