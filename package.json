@@ -4,7 +4,9 @@
   "description": "just a blockchain test",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "try": "node dev/test.js",
+    "start": "node dev/blockchain.js"
   },
   "keywords": [
     "blockchain"
